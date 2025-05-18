@@ -5,13 +5,6 @@
 
 Astrophysics PhD graduate turned Data & Tech graduate at EDF. 
 
-### Languages
-
-- Python 🐍
-- C# 
-- HTML/CSS 
-- SQL
-
 <!--
 **sachindias/sachindias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
