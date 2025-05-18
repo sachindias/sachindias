@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi, I'm Sachin 👋💻
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachindias)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachindias)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 <!--
 **sachindias/sachindias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
